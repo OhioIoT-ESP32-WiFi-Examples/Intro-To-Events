@@ -35,7 +35,10 @@ If the credentials are not given in the begin call, then they most be defined as
 
 ### Getting Started - PlatformIO
 This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile.
+
 To turn on logging, uncomment the line `-D WIFI_VERBOSE` from the *platformio.ini*.
+
+To override the status print intervall of 1000 (ms), provide a new flag `-D WIFI_STATUS_INTERVAL 2000` (2000, for instance).
 
 
 ### Getting Started - Arduino IDE 
