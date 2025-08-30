@@ -54,7 +54,7 @@ arduino/
 		└── [your_sketch]/             <-- your sketch
 			└── [your_sketch].ino		
 ```
-Copy the contents from main.cpp into Arduino IDE and it will work.
+Copy the contents from main.cpp into Arduino IDE and it will work, once the library has been copied into your shared *libraries/* folder
 
 ## About
 
