@@ -6,15 +6,19 @@
 This code serves as an interim stop (step 1 of 4) in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
 
 It is the first in this video series "Nail Down Your WiFi":
-- **[ESP32 WiFi - Introduction To Events](https://youtu.be/f204w_Yvz_Y))** <---- the video for this code
+- **[ESP32 WiFi - Introduction To Events](https://youtu.be/f204w_Yvz_Y)** <---- the video for this code
 
 
 ## Getting Started
-`git clone https://github.com/OhioIoT-Examples/WiFi-Events_And_Logging.git`
+```
+git clone https://github.com/OhioIoT-Examples/WiFi-Events_And_Logging.git
+```
 
 Change the WiFi credentials in main.cpp
 
-`#include "wifi_tools.h"`
+```
+#include "wifi_tools.h"
+```
 
 In setup:
 
@@ -26,7 +30,9 @@ wifi_tools.begin(ssid, pass);
 
 In loop:
 
-`wifi_tools.log_status();`
+```
+wifi_tools.log_status();
+```
 
 
 
