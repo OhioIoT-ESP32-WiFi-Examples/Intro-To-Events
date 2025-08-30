@@ -6,7 +6,7 @@
 This code serves as an interim stop (step 1 of 4) in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
 
 It is the first in this video series "Nail Down Your WiFi":
-- **[ESP32 WiFi - Events & Logging](https://ohioiot.com)** <---- the video for this code
+- **[ESP32 WiFi - Introduction To Events](https://youtu.be/f204w_Yvz_Y))** <---- the video for this code
 
 
 ## Getting Started
