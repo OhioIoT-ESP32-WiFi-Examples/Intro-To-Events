@@ -6,7 +6,7 @@
 This code serves as an interim stop (step 1 of 4) in a series of videos marching toward your next-level WiFi library for ESP32 IoT developers.  
 
 It is the first in this video series "Nail Down Your WiFi":
-- **[ESP32 WiFi - Introduction To Events](https://youtu.be/f204w_Yvz_Y)** <---- the video for this code
+- **[ESP32 WiFi - Introduction To Events](https://www.youtube.com/watch?v=AT4uNl0lJK8)** <---- the video for this code
 
 
 ## Getting Started
@@ -66,4 +66,4 @@ Copy the contents from main.cpp into Arduino IDE and it will work, once the libr
 
 OhioIoT is focused on developing and marketing tools that are designed and priced for small-scale IoT developers.  The goal is to bring early success to your IoT projects with minimum effort in adoption.
 
-For more, check out our webiste at [www.OhioIoT.com](https://www.ohioiot.comi).
+For more, check out our webiste at [www.OhioIoT.com](https://www.ohioiot.com).
