@@ -11,7 +11,7 @@ It is the first in this video series "Nail Down Your WiFi":
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/WiFi-Events_And_Logging.git
+git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Events-And-Logging.git
 ```
 
 Change the WiFi credentials in main.cpp
