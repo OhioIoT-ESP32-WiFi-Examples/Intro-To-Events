@@ -3,7 +3,7 @@
 
 ## Overview
 
-This code serves is an output from the YouTube video [ESP32 WiFi: Introducing Events](https://www.youtube.com/watch?v=AT4uNl0lJK8&list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME), part of a video series marching toward your next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
+This code was generated in the YouTube video [ESP32 WiFi: Introducing Events](https://www.youtube.com/watch?v=AT4uNl0lJK8&list=PLAilpW21Y-LAHbQl6HvIWl0VDeJ9daaME), part of a video series marching toward a next-level WiFi library for ESP32 IoT developers.  👉 Subscribe to the [OhioIoT YouTube Channel](https://www.youtube.com/@OhioIoT?sub_confirmation=1) for more on All Things IoT: hardware, firmware, connectivity, cloud computing, and dev toolkit.
 
 
 ## Getting Started
