@@ -11,8 +11,6 @@ This code was generated in the YouTube video [ESP32 WiFi: Introducing Events](ht
 git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Events-And-Logging.git
 ```
 
-Change the WiFi credentials in main.cpp
-
 
 
 ### Getting Started - PlatformIO
