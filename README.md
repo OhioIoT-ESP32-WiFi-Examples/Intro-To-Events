@@ -13,28 +13,12 @@ git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Events-And-Logging.git
 
 Change the WiFi credentials in main.cpp
 
-```
-#include "wifi_tools.h"
-```
-
-In setup:
-
-```
-wifi_tools.log_events();
-wifi_tools.begin(ssid, pass);
-```
-
-
-In loop:
-
-```
-wifi_tools.log_status();
-```
-
 
 
 ### Getting Started - PlatformIO
-This codebase is structrued as a fully ready PlatformIO project, so users can git pull and then immediately compile (after adding credentials).
+This codebase is structrued as a fully ready PlatformIO project.
+1. change the WiFi credentials in main.cpp
+1. compile and run
 
 To turn off logging, delete/uncomment the `log_events()` and `log_status()` function calls.
 
@@ -46,18 +30,22 @@ The library *wifi_tools*, found in the *lib/* folder, is compatible with ESP32 i
 
 <image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
 
+1. copy the wifi_tools library to your Arduino *libraries/* folder
+2. copy the code from *src/main.cpp* into your sketch
+3. update the WiFi credentials in your sketch
+
 ```
 arduino/						
 		│						
 		├── libraries/        		
-		│   └── wifi_tools/            <-- put the wifi_tools folder from this repo here
+		│   └── wifi_tools/            <-- copy the lib/wifi_tools folder and paste it here
 		│      	├── wifi_tools.cpp		
 		│       └── wifi_tools.h 		
 		│  	 								
-		└── [your_sketch]/             <-- your sketch
-			└── [your_sketch].ino		
+		└── [your_sketch]/             	
+			└── [your_sketch].ino		<-- put the contents from src/main.cpp here
 ```
-Copy the contents from main.cpp into Arduino IDE and it will work, once the library has been copied into your shared *libraries/* folder
+
 
 ## About
 
