@@ -46,8 +46,4 @@ arduino/
 
 
 ## About
-
-OhioIoT is focused on developing and marketing tools that are designed and priced for small-scale IoT developers.  The goal is to bring early success to your IoT projects with minimum effort in adoption.
-
-<br>
 *OhioIoT is an IoT platform designed for small-scale IoT projects.  For more, check out our webiste at [www.OhioIoT.com](https://www.ohioiot.com).*
