@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+
 
 #include "wifi_tools.h"
 
