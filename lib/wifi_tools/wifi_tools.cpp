@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: MIT
-// Copyright (c) 2025 OhioIoT, LLC
 
 #include "wifi_tools.h"
 WiFi_Tools wifi_tools;

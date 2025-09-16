@@ -1,4 +1,4 @@
-
+// SPDX-License-Identifier: MIT
 
 #ifndef WIFI_TOOLS_h
 #define WIFI_TOOLS_h
