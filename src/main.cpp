@@ -2,8 +2,8 @@
 
 #include "wifi_tools.h"
 
-const char * ssid = "[ your WIFI SSID ]";
-const char * pass = "[ your WIFI PASSWORD ]";
+const char * ssid = "[your SSID]";
+const char * pass = "[your WiFi password]";
 
 void setup() {
 
