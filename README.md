@@ -8,7 +8,7 @@ This code was generated in the YouTube video [ESP32 WiFi: Introducing Events](ht
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32_WiFi_Events-And-Logging.git
+git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Events-And-Logging.git
 ```
 
 
