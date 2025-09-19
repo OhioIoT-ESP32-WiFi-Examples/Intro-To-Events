@@ -8,7 +8,7 @@ This code was generated in the YouTube video [ESP32 WiFi: Intro To Events](https
 
 ## Getting Started
 ```
-git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Events-And-Logging.git
+git clone https://github.com/OhioIoT-Examples/ESP32-WiFi_Intro-To-Events.git
 ```
 
 
@@ -18,7 +18,7 @@ This codebase is structrued as a fully ready PlatformIO project.
 1. change the WiFi credentials in main.cpp
 1. compile and run
 
-To turn off logging, delete/uncomment the `log_events()` and `log_status()` function calls.
+To turn off logging, delete/uncomment the `wifi_tools.log_events()` and `wifi_tools.log_status()` function calls.
 
 
 
