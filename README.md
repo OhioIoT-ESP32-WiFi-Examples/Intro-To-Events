@@ -1,4 +1,4 @@
-# ESP32 WiFi: Intro To Events <img src="https://www.ohioiot.com/images/logo.jpg" width=40px >
+# ESP32 WiFi: Intro To Events <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/images/logo.jpg" width="40" ></a>
 
 
 ## Overview
