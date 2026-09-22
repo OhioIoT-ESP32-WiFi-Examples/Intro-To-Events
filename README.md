@@ -1,4 +1,4 @@
-# ESP32 WiFi: Intro To Events <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+# ESP32 WiFi: Use Events to Track Your Connection <a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 
 ## Overview
 
