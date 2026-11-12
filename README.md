@@ -26,7 +26,7 @@ To turn off logging, delete/uncomment the `wifi_tools.log_events()` and `wifi_to
 
 The library *wifi_tools*, found in the *lib/* folder, is compatible with ESP32 in Arduino IDE.
 
-<image src="https://www.ohioiot.com/images/arduino_ide_friendly.png" width=60px ></image>
+<image src="https://www.ohioiot.com/arduino_ide_friendly.png" width=60px ></image>
 
 1. copy the wifi_tools library to your Arduino *libraries/* folder
 2. copy the code from *src/main.cpp* into your sketch
